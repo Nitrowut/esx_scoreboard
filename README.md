@@ -26,4 +26,5 @@ ensure esx_scoreboard
 🧑‍🔧 How to edit scoreboard
 1. Go to "esx_scoreboard\html\scoreboard.html"
 
+📷 Photos
 ![default](https://i.imgur.com/9eKUaNc.png)
