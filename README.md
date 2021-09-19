@@ -27,4 +27,4 @@ ensure esx_scoreboard
 1. Go to "esx_scoreboard\html\scoreboard.html"
 
 📷 Photos
-![default](https://i.imgur.com/9eKUaNc.png)
+- ![default](https://i.imgur.com/9eKUaNc.png)
